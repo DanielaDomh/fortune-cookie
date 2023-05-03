@@ -1,0 +1,23 @@
+:root {
+  --orange: black;
+  --brown: #7296e3;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Raleway';
+}
+
+body{
+  margin: 0;
+}
+html{
+  box-sizing: border-box;
+  
+font-family: 'Raleway'
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}

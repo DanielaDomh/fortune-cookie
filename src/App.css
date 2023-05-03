@@ -1,0 +1,30 @@
+.App {
+  position: relative;
+  height: 100vh;
+  background-size: cover ;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  background-image: url("/public/images/BG2.png");
+  
+}
+.bg1 {
+  background-image: url("/public/images/BG1.png");
+}
+.bg2 {
+  background-image: url("/public/images/BG2.png");
+}
+.bg3 {
+  background-image: url("/public/images/BG3.png");
+}
+
+
+.cat {
+  position: absolute;
+  width: 20%;
+  bottom: 0%;
+  right: 5%;
+  min-width: 150px;
+}
+
+
